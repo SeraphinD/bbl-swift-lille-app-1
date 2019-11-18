@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Sample App 1
-//
-//  Created by Séraphin Desumeur on 18/11/2019.
-//  Copyright © 2019 Séraphin. All rights reserved.
-//
-
 import MyUIKit
 
 @UIApplicationMain

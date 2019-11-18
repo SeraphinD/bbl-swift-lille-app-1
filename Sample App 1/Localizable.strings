@@ -1,13 +1,5 @@
-/* 
-  Localizable.strings
-  Sample App 1
-
-  Created by Séraphin Desumeur on 18/11/2019.
-  Copyright © 2019 Séraphin. All rights reserved.
-*/
 "close" = "FERMER";
 "title" = "COUPONS";
 "description" = "Scannez ce code pour retrouver vos coupons en ligne";
-"code" = "123456789";
 "code_image" = "https://github.com/SeraphinD/bbl-swift-lille-files/raw/master/barcode.png";
 "title_details" = "Mes coupons";

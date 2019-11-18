@@ -226,7 +226,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "/usr/local/bin/python3 Scripts/design_token.py \"Sample App 1/Generated/design.swift\" \"1\"\n";
+			shellScript = "/usr/local/bin/python3 Scripts/design_token.py \"${PROJECT_NAME}/Generated/design.swift\" \"1\"\n";
 		};
 		C8C873C2E5177CFE17F412B2 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
