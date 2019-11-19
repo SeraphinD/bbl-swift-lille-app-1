@@ -1,7 +1,7 @@
 import MyUIKit
 
 @UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+final class AppDelegate: UIResponder, UIApplicationDelegate {
 
     let colors = MyColors()
     let textStyles = MyTextStyle()
